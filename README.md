@@ -7,3 +7,14 @@ Para correr el juego es necesario seguir las siguientes instrucciones
 cd game
 python3 main.py
 ```
+
+
+# Game project
+
+```sh
+git clone
+cd app
+source env-app/bin/activate
+pip3 install -r requirements.txt
+python3 main.py
+```
