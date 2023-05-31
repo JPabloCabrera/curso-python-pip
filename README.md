@@ -9,7 +9,7 @@ python3 main.py
 ```
 
 
-# Game project
+# app project
 
 ```sh
 git clone
